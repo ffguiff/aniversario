@@ -32,5 +32,5 @@ function nextphoto(){
         number=4;
         stringNumber=String(number);
     }
-    
+
 }
